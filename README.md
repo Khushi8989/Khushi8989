@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, SQL, HTML, CSS
-- **Frameworks**: Spring Boot, Spring MVC, Hibernate
+- **Frameworks**: Spring Boot, Spring MVC, Spring Security, Hibernate
 - **Tools**: Postman, Maven, Eureka, RabbitMQ
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Architecture**: Microservices, REST APIs
